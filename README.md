@@ -121,7 +121,7 @@ For the first demonstration, we have implemented **User Authentication (Signup &
 ### 7.2 Deployment Plan
 - **Codebase hosted on GitHub.**
 - **CI/CD pipeline configured for automated deployment.**
-- **Deployed on AWS with PostgreSQL and MongoDB backend.**
+- **Deployed on AWS with PostgreSQL and MongoDB backend, firebase.**
 
 ---
 
