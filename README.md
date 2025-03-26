@@ -10,11 +10,6 @@ Advanced Task Management System
 ### 1.2 Description
 The Advanced Task Management System is designed to enhance workflow efficiency, team collaboration, and task tracking. It allows users to create, assign, and manage tasks efficiently while integrating external tools for seamless work management.
 
-### 1.3 Revision History
-| Date | Comment | Author |
-|------|---------|--------|
-| YYYY-MM-DD | Initial version created | Gurneet Singh |
-
 ---
 
 ## 2. Overview
