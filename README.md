@@ -43,7 +43,7 @@ This project aims to provide a scalable and feature-rich task management solutio
 #### 2.3.3 Technical Requirements
 - Backend: **Node.js (NestJS) / Python (Django/FastAPI)**
 - Frontend: **React.js (Next.js)**
-- Database: **PostgreSQL (structured data), MongoDB (task logs and comments)**
+- Database: **PostgreSQL (structured data), MongoDB (task logs and comments), Firebase**
 - Hosting: **AWS Cloud Services**
 
 #### 2.3.4 Security Requirements
