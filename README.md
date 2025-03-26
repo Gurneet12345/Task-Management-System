@@ -135,10 +135,4 @@ For the first demonstration, we have implemented **User Authentication (Signup &
 - Develop team collaboration features (comments, file sharing, chat).
 - Optimize API performance and security measures.
 
-For more details, visit the GitHub repository: [Advanced Task Management System](https://github.com/Gurneet-Singh-Dev/Advanced-Task-Management)
-
----
-
-## Contact
-For any queries, reach out to **Gurneet Singh**.
 
